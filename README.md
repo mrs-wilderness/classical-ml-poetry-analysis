@@ -1,0 +1,3 @@
+Exploratory stylometric analysis of fragmented English-language lyric poetry using interpretable classical ML methods. The project includes dataset curation, exploratory data analysis, supplementary clustering, TF–IDF-based text representation, feature analysis, and multiclass classification with emphasis on interpretability and error-pattern analysis.
+
+Tools: Python (Scikit-learn, Pandas, Matplotlib).
